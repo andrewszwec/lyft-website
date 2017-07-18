@@ -1,0 +1,8 @@
+html {
+    img
+      width: 80px
+      margin: 5px
+    tr 
+      td:first-child
+        width: 10px
+}
